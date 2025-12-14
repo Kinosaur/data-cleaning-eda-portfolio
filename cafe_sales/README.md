@@ -22,11 +22,9 @@ This project demonstrates end-to-end data cleaning techniques on a deliberately 
 
 ## 📊 Interactive Dashboard
 
-[![Cafe Sales Summary 2023](https://public.tableau.com/static/images/Ca/CafeSalesSummary2023/CafeSalesSummary2023/1.png)](https://public.tableau.com/views/CafeSalesSummary2023/CafeSalesSummary2023)
+![Cafe Sales Summary 2023](Cafe%20Sales%20Summary%202023.png)
 
-**[→ Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/CafeSalesSummary2023/CafeSalesSummary2023)**
-
-> Note: GitHub doesn't support embedded Tableau dashboards. Click the image or link above to view the full interactive version.
+**[→ Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/CafeSalesSummary2023/CafeSalesSummary2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
